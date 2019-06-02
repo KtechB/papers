@@ -7,3 +7,7 @@ Hind sight Transformationを利用して自らの行動から良い行動を抽�
 ###表現学習
 https://speakerdeck.com/tmats/di-32hui-qiang-hua-xue-xi-akitekutiyamian-qiang-hui-zhuang-tai-biao-xian-xue-xi-toshi-jie-moderufalsezui-jin-falseyan-jiu-oyobishen-ceng-sheng-cheng-moderuraiburaripixyzfalseshao-jie-number-rlarch?slide=4
 大枠
+
+
+###  SQIL
+https://arxiv.org/abs/1905.11108z
