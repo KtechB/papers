@@ -11,3 +11,6 @@ https://speakerdeck.com/tmats/di-32hui-qiang-hua-xue-xi-akitekutiyamian-qiang-hu
 
 ###  SQIL
 https://arxiv.org/abs/1905.11108z
+
+### Directed-InfoGAIL
+https://arxiv.org/abs/1810.01266
