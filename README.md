@@ -14,3 +14,6 @@ https://arxiv.org/abs/1905.11108z
 
 ### Directed-InfoGAIL
 https://arxiv.org/abs/1810.01266
+
+### Residual RL
+https://arxiv.org/abs/1905.01072
