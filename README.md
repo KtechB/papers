@@ -15,5 +15,10 @@ https://arxiv.org/abs/1905.11108z
 ### Directed-InfoGAIL
 https://arxiv.org/abs/1810.01266
 
+### Imitation Learning from Imperfect Demonstration
+https://arxiv.org/abs/1901.09387
+confidenceというスコアを付加したsuboptimalデモンストレーションを用いて，学習
+
+
 ### Residual RL
 https://arxiv.org/abs/1905.01072
