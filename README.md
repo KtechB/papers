@@ -25,3 +25,6 @@ https://arxiv.org/abs/1905.01072
 
 ### Residual poliy learning
 https://arxiv.org/abs/1812.06298
+
+### Auto RL(tune reward for Mujoco)
+https://arxiv.org/pdf/1905.07628
