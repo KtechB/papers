@@ -20,5 +20,8 @@ https://arxiv.org/abs/1901.09387
 confidenceというスコアを付加したsuboptimalデモンストレーションを用いて，学習
 
 
-### Residual RL
+### Residual RL(using Residual algolithm)
 https://arxiv.org/abs/1905.01072
+
+### Residual poliy learning
+https://arxiv.org/abs/1812.06298
