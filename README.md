@@ -29,3 +29,7 @@ https://arxiv.org/abs/1812.06298
 
 ### Auto RL(tune reward for Mujoco)
 https://arxiv.org/pdf/1905.07628
+
+### Dyna-AIL : Adversarial Imitation Learning by Planning
+https://arxiv.org/abs/1903.03234
+GAIL + Dyna(?)
