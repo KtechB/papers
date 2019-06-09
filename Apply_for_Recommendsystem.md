@@ -24,3 +24,6 @@ KDD2018
 動的環境へのロバスト性を工夫
 - Stratified sampling replay
 - regret reward :もともとバンディット問題での考え．regret$\rho$はT回の試行での最適方策と実際の得られた報酬の差
+
+## spotify
+https://blog.rishabhmehrotra.com/3-papers-accepted-at-www-2019-4438369a9422
