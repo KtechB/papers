@@ -25,6 +25,7 @@ https://arxiv.org/abs/1905.01072
 
 ### Residual poliy learning
 https://arxiv.org/abs/1812.06298
+与えられたタスクに対して不完全な制御方策が得られている場合を想定し，与えられた初期方策を改善しながら，少ない試行回数で適切な方策を獲得することを実現する
 
 ### Auto RL(tune reward for Mujoco)
 https://arxiv.org/pdf/1905.07628
