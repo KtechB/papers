@@ -36,3 +36,7 @@ GAIL + Dyna(?)
 
 ## model base
 https://www.slideshare.net/DeepLearningJP2016/dlsimpleimproved-dynamics-modelplanet-vaerl
+
+## Robots that Learn to Adapt
+エージェントのモデル変化への適応
+https://bair.berkeley.edu/blog/2019/05/06/robot-adapt/
