@@ -33,3 +33,6 @@ https://arxiv.org/pdf/1905.07628
 ### Dyna-AIL : Adversarial Imitation Learning by Planning
 https://arxiv.org/abs/1903.03234
 GAIL + Dyna(?)
+
+## model base
+https://www.slideshare.net/DeepLearningJP2016/dlsimpleimproved-dynamics-modelplanet-vaerl
