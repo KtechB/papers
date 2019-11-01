@@ -45,6 +45,9 @@ https://www.slideshare.net/DeepLearningJP2016/dlsimpleimproved-dynamics-modelpla
 エージェントのモデル変化への適応
 https://bair.berkeley.edu/blog/2019/05/06/robot-adapt/
 
+# Hierarvhical
+https://www.slideshare.net/yukono1/nips2017pfn-hierarchical-reinforcement-learning
+
 # Application
 LEARNING TO NAVIGATE THE WEB
 https://openreview.net/forum?id=BJemQ209FQ
