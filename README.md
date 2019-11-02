@@ -18,6 +18,8 @@ https://arxiv.org/abs/1905.11108z
 ### Directed-InfoGAIL (ICLR2019)
 info-GAILの潜在変数について遷移条件を考慮
 https://arxiv.org/abs/1810.01266
+infoGAILと同時期に発表された似たもの(nips2017)
+https://arxiv.org/abs/1705.10479
 
 ### Imitation Learning from Imperfect Demonstration
 https://arxiv.org/abs/1901.09387
@@ -45,7 +47,7 @@ https://www.slideshare.net/DeepLearningJP2016/dlsimpleimproved-dynamics-modelpla
 エージェントのモデル変化への適応
 https://bair.berkeley.edu/blog/2019/05/06/robot-adapt/
 
-# Hierarvhical
+# Hierarchical
 https://www.slideshare.net/yukono1/nips2017pfn-hierarchical-reinforcement-learning
 
 # Application
