@@ -65,3 +65,7 @@ https://www.cs.cmu.edu/~nrhineha/R2P2.html
 ### Imitation Learning for Human Pose Prediction
 https://arxiv.org/abs/1909.03449
 GAILによる姿勢予測（max 1[sec])
+### Socially Compliant Navigation through Raw Depth Inputs with Generative Adversarial Imitation Learning
+歩行者をよけるロボットをraw input GAILで実現
+↓データなど公開済み
+https://github.com/onlytailei/gym_ped_sim
