@@ -58,4 +58,10 @@ web操作エージェントの学習
 ない時もmeta学習したカリキュラムトレーナーで学習？？
 large state action space
 sparse reward
+### R2P2: A ReparameteRized Pushforward Policy for Diverse, Precise Generative Path Forecasting
+https://www.cs.cmu.edu/~nrhineha/R2P2.html
+自動車の経路予測
 
+### Imitation Learning for Human Pose Prediction
+https://arxiv.org/abs/1909.03449
+GAILによる姿勢予測（max 1[sec])
