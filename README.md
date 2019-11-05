@@ -69,3 +69,7 @@ GAILによる姿勢予測（max 1[sec])
 歩行者をよけるロボットをraw input GAILで実現
 ↓データなど公開済み
 https://github.com/onlytailei/gym_ped_sim
+
+###Learning temporal strategic relationships using generative adversarial imitation learning
+潜在状態を含めた自動運転
+
