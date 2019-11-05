@@ -16,10 +16,13 @@ https://openreview.net/forum?id=HJlNpoA5YQ
 https://arxiv.org/abs/1905.11108z
 
 ### Directed-InfoGAIL (ICLR2019)
-info-GAILの潜在変数について遷移条件を考慮
+info-GAILの潜在変数について遷移条件を考慮　option GANにちかい
 https://arxiv.org/abs/1810.01266
-infoGAILと同時期に発表された似たもの(nips2017)
-https://arxiv.org/abs/1705.10479
+
+Multi-Modal Imitation Learning from Unstructured Demonstrations using Generative Adversarial Nets
+http://papers.nips.cc/paper/6723-multi-modal-imitation-learning-from-unstructured-demonstrations-using-generative-adversarial-nets
+infoGAILとほぼ同じ
+適用タスクがMujocoを中心としており，Reacherなどのtargetをいじった結果が記載されている．
 
 ### Imitation Learning from Imperfect Demonstration
 https://arxiv.org/abs/1901.09387
@@ -73,3 +76,6 @@ https://github.com/onlytailei/gym_ped_sim
 ###Learning temporal strategic relationships using generative adversarial imitation learning
 潜在状態を含めた自動運転
 
+### Preferences Implicit in the State of the World
+https://arxiv.org/abs/1902.04198
+環境から人の嗜好を推定？？
