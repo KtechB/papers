@@ -14,6 +14,10 @@
 
 # papers for Recommendation
 
+## Generative Adversarial User Model for Reinforcement Learning Based Recommendation System
+https://arxiv.org/abs/1812.10613
+GANの枠組みでuserをモデリングし，これをシミュレータとしてモデルベース強化学習
+
 ## Reinforcement Learning based Recommender Systemusing Biclustering Technique
 グリッドワールドに落とし込む？
 https://arxiv.org/abs/1801.05532
@@ -27,3 +31,4 @@ KDD2018
 
 ## spotify
 https://blog.rishabhmehrotra.com/3-papers-accepted-at-www-2019-4438369a9422
+#
