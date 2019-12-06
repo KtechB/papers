@@ -1,17 +1,10 @@
 # 論文まとめテストページ
 # Imitation Learnings
-## HGAIL
+### HGAIL
 https://arxiv.org/pdf/1903.07854.pdf
 Hind sight Transformationを利用して自らの行動から良い行動を抽出しself-imitation
 
-##表現学習
-https://speakerdeck.com/tmats/di-32hui-qiang-hua-xue-xi-akitekutiyamian-qiang-hui-zhuang-tai-biao-xian-xue-xi-toshi-jie-moderufalsezui-jin-falseyan-jiu-oyobishen-ceng-sheng-cheng-moderuraiburaripixyzfalseshao-jie-number-rlarch?slide=4
-大枠
 
-### Graph Laplacianによる距離学習
-The Laplacian in RL: Learning Representations with Efficient Approximations
-https://openreview.net/forum?id=HJlNpoA5YQ
-（GraphにおけるLaplacianの基本https://qiita.com/ryunryunryun/items/297b54a59172b43b3f20)
 ###  SQIL
 https://arxiv.org/abs/1905.11108z
 
@@ -42,9 +35,25 @@ https://arxiv.org/pdf/1905.07628
 ### Dyna-AIL : Adversarial Imitation Learning by Planning
 https://arxiv.org/abs/1903.03234
 GAIL + Dyna(?)
+# 表現学習
+https://speakerdeck.com/tmats/di-32hui-qiang-hua-xue-xi-akitekutiyamian-qiang-hui-zhuang-tai-biao-xian-xue-xi-toshi-jie-moderufalsezui-jin-falseyan-jiu-oyobishen-ceng-sheng-cheng-moderuraiburaripixyzfalseshao-jie-number-rlarch?slide=4
+大枠
+
+### Graph Laplacianによる距離学習
+The Laplacian in RL: Learning Representations with Efficient Approximations
+https://openreview.net/forum?id=HJlNpoA5YQ
+（GraphにおけるLaplacianの基本https://qiita.com/ryunryunryun/items/297b54a59172b43b3f20)
+
+### Transpoter KeyPoint learning
+https://arxiv.org/abs/1906.11883
 
 # model base
 https://www.slideshare.net/DeepLearningJP2016/dlsimpleimproved-dynamics-modelplanet-vaerl
+
+## Temporal Difference Models: Model-Free Deep RL for Model-Based Control
+TDMs
+モデルフリーモデルベースRL
+
 
 ## Robots that Learn to Adapt
 エージェントのモデル変化への適応
