@@ -17,6 +17,10 @@ http://papers.nips.cc/paper/6723-multi-modal-imitation-learning-from-unstructure
 infoGAILとほぼ同じ
 適用タスクがMujocoを中心としており，Reacherなどのtargetをいじった結果が記載されている．
 
+Meta-Inverse Reinforcement Learning with Probabilistic Context Variables
+http://papers.nips.cc/paper/9348-meta-inverse-reinforcement-learning-with-probabilistic-context-variables
+Discriminatorにもコンテクストを与える（1つの軌跡に一つのcontext)
+
 ### Imitation Learning from Imperfect Demonstration
 https://arxiv.org/abs/1901.09387
 confidenceというスコアを付加したsuboptimalデモンストレーションを用いて，学習
