@@ -92,3 +92,6 @@ https://github.com/onlytailei/gym_ped_sim
 ### Preferences Implicit in the State of the World
 https://arxiv.org/abs/1902.04198
 環境から人の嗜好を推定？？
+
+### 逆強化学習の行動解析への応用（サーベイスライド)
+https://www.slideshare.net/EijiUchibe/nips-kansai-reading-group-7?next_slideshow=1
