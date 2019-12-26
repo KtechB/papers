@@ -17,7 +17,7 @@ http://papers.nips.cc/paper/6723-multi-modal-imitation-learning-from-unstructure
 infoGAILとほぼ同じ
 適用タスクがMujocoを中心としており，Reacherなどのtargetをいじった結果が記載されている．
 
-Meta-Inverse Reinforcement Learning with Probabilistic Context Variables
+### Meta-Inverse Reinforcement Learning with Probabilistic Context Variables
 http://papers.nips.cc/paper/9348-meta-inverse-reinforcement-learning-with-probabilistic-context-variables
 Discriminatorにもコンテクストを与える（1つの軌跡に一つのcontext)
 
@@ -39,6 +39,22 @@ https://arxiv.org/pdf/1905.07628
 ### Dyna-AIL : Adversarial Imitation Learning by Planning
 https://arxiv.org/abs/1903.03234
 GAIL + Dyna(?)
+### Imitation Learning via Off-Policy Distribution Matching
+https://arxiv.org/abs/1912.05032
+
+GAILのようなDistribusion mutchingを報酬を用いずに直接的に行う
+offpolicyによりDACを超えてSOTA
+
+GAILなどの問題点
+- On-policy Dacはoffpolicy化しているが，理論的保障が薄い
+- Separate RL optimization: RLをわざわざ走らせている分無駄が多い
+
+新規性
+DとVを実質的に同時に求めることで効率的に模倣可能
+BCのようにデモデータのみでも学習はできるが，基本的に環境の遷移に関する情報が足りないのでそれを補う形で
+GAILのように行動しsampleを集める．
+
+
 # 表現学習
 https://speakerdeck.com/tmats/di-32hui-qiang-hua-xue-xi-akitekutiyamian-qiang-hui-zhuang-tai-biao-xian-xue-xi-toshi-jie-moderufalsezui-jin-falseyan-jiu-oyobishen-ceng-sheng-cheng-moderuraiburaripixyzfalseshao-jie-number-rlarch?slide=4
 大枠
